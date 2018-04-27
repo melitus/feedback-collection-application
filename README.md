@@ -13,9 +13,9 @@ Really large web app with the most popular technologies:
 * [Redux](https://github.com/reactjs/redux)'s futuristic [Flux](https://facebook.github.io/react/blog/2014/05/06/flux.html) implementation.
 * [Mongo](https://docs.mongodb.com/) To communicate data from db to react application.
 * [Redux Form](https://redux-form.com/7.3.0/docs/gettingstarted.md/) To build reusable user inputs 
-* [Stripe](https://stripe.com/docs/api/node/)To handle credit cards and receive payments from your users with Stripe 
-* [SendGrid](https://goo.gl/tMkJNL/)To engage app users with automated emails 
-* [Google OAuth authentication](https://developers.google.com/actions/identity/oauth2-code-flow/)To enhance authentication flows  
+* [Stripe](https://stripe.com/docs/api/node/) To handle credit cards and receive payments from your users with Stripe 
+* [SendGrid](https://goo.gl/tMkJNL/) To engage app users with automated emails 
+* [Google OAuth authentication](https://developers.google.com/actions/identity/oauth2-code-flow/) To enhance authentication flows  
 * [Express](https://expressjs.com/) server.
 * [Webpack 4](https://webpack.js.org/) for bundling
 * [Babel](https://babeljs.io/) for ES6 and ES7 transpiling.
